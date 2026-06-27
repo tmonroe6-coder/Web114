@@ -1,4 +1,3 @@
-"use strict";
 
 /* Tierney Monroe - 06/23/2026
 
@@ -35,7 +34,7 @@ Logical operators:
    && for input validation
    || for multiple accepted answers
 */
-
+"use strict";
 console.log("=== My Quiz Game ===");
 
 // Initialize score

@@ -1,3 +1,4 @@
+// Tierney Monroe 06/20/2026
 const setting = "a floating sky city";
 
 alert(`Welcome to the Adventure Character Creator!
